@@ -1,4 +1,4 @@
-## Crypto Currency Tracker
+# Crypto Currency Tracker
 This is a crypto currency tracking app that allows users to monitor and keep up-to-date with the latest prices, trends, and news in the world of crypto currencies. The app is built using React and styled with CSS. It utilizes various APIs to fetch the latest data on different crypto currencies and display them in an easy-to-understand format.
 
 # Features
