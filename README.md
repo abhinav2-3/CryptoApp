@@ -1,6 +1,6 @@
 # Crypto Currency Tracker
 This is a crypto currency tracking app that allows users to monitor and keep up-to-date with the latest prices, trends, and news in the world of crypto currencies. The app is built using React and styled with CSS. It utilizes various APIs to fetch the latest data on different crypto currencies and display them in an easy-to-understand format.
-
+# Preview This Project  - https://crypto-app-roan-seven.vercel.app/
 # Features
 Price Tracker: Users can view the latest prices of different crypto currencies such as Bitcoin, Ethereum, Litecoin, and more. Prices are displayed in USD, EUR, and other currencies. Users can also track the price changes over different periods of time (1 day, 1 week, 1 month, etc.) and view a graph of the price changes over time
 Currency Converter: The app allows users to convert different crypto currencies to their preferred fiat currency.
